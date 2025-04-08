@@ -12,6 +12,7 @@ namespace finalproj
     {
         static void Main(string[] args)
         {
+            //still a draft !!
             Console.WriteLine("Welcome to SHOr na SHOr!");
             Console.WriteLine("Please enter any input to proceed to the main menu.");
             string entryinput = Console.ReadLine();
